@@ -70,6 +70,7 @@
             android:theme="@style/Theme.Gallery"
             android:hardwareAccelerated="true"
             android:largeHeap="true"
+            android:appCategory="image"
             android:restoreAnyVersion="true"
             android:supportsRtl="true"
             usesCleartextHttp="true">
